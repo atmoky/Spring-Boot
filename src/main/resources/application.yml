@@ -5,8 +5,8 @@ contextPath: /
 spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/autos
-    username: root
-    password:
+    username: astro
+    password: astro
     driver-class-name: com.mysql.jdbc.Driver
     type: com.zaxxer.hikari.HikariDataSource
     hikari:
